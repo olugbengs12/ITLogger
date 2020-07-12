@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Hard drive on computer from finance dept",
+      "attention": false,
+      "date": "12-07-2020",
+      "tech": "Gbenga Owoeye"
+    },
+    {
+      "id": 2,
+      "message": "Fixed internet connectivity issue at procurements",
+      "attention": true,
+      "date": "07-07-2020",
+      "tech": "Adeniyi Jones"
+    },
+    {
+      "id": 3,
+      "message": "Designed a prototype for the maintenance team",
+      "attention": false,
+      "date": "02-07-2020",
+      "tech": "Isaac John"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Gbenga",
+      "lastname": "Owoeye"
+    },
+    {
+      "id": 2,
+      "firstname": "Adeniyi",
+      "lastname": "Jones"
+    },
+    {
+      "id": 3,
+      "firstname": "Isaac",
+      "lastname": "John"
+    }
+  ]
+}
