@@ -25,18 +25,18 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "Gbenga",
-      "lastname": "Owoeye"
+      "firstName": "Gbenga",
+      "lastName": "Owoeye"
     },
     {
       "id": 2,
-      "firstname": "Adeniyi",
-      "lastname": "Jones"
+      "firstName": "Adeniyi",
+      "lastName": "Jones"
     },
     {
       "id": 3,
-      "firstname": "Isaac",
-      "lastname": "John"
+      "firstName": "Isaac",
+      "lastName": "John"
     }
   ]
 }
