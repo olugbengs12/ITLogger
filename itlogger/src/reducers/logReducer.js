@@ -1,9 +1,4 @@
-import {
-  GET_LOGS,
-  SET_LOADING,
-  LOGs_ERROR,
-  LOGS_ERROR,
-} from "../actions/types";
+import { GET_LOGS, SET_LOADING, LOGS_ERROR } from "../actions/types";
 
 const initialState = {
   logs: null,
